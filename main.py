@@ -8,7 +8,7 @@ import json as json
 
 # current_ip = input("IP Address: ")
 current_ip = '202.44.76.8';             # =================>>   Input
-RAPIDAPI_KEY = 'f2f518c7c6msh41fb74a31c2d77bp13e751jsnc3050cb54120'
+RAPIDAPI_KEY = ''
 
 
 def trigger_api(ip):
